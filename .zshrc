@@ -33,4 +33,4 @@ source $ZSH/oh-my-zsh.sh
 
 # Set personal aliases, overriding those provided by Oh My Zsh libs,
 # plugins, and themes.
-alias config="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
+alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
