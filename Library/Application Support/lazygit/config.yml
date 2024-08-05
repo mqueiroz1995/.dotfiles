@@ -1,0 +1,7 @@
+git:
+  autoFetch: false
+  autoRefresh: false
+  fetchAll: false
+
+  paging:
+    externalDiffCommand: difft --color=always
